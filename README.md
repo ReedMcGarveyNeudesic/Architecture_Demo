@@ -19,6 +19,8 @@ Please wait to merge branches into main until PRs are reviewed by at least one p
 ### File Select
 - Select from different file provider services
 - Should open widget for selected service, only able to select viable file type from storage
+- Alternatively, use APIs and design the interface ourselves
+  - Google Drive: https://github.com/Elringus/UnityGoogleDrive
 
 ### XR View
 - Can go back to file selection
@@ -26,3 +28,4 @@ Please wait to merge branches into main until PRs are reviewed by at least one p
 - Button to clear model
 - Click on objects in world to select base and rotation of model
 - Slider to scale model when placed
+
