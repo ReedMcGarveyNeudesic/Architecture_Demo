@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 487dcdb6c6f9047909250aacaabbb16e
+  - enabled: 1
     path: Assets/Scenes/Superimpose Scene.unity
     guid: 6bdce89659816455b9f906fc62d19910
   m_configObjects:
