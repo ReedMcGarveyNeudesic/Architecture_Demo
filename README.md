@@ -8,7 +8,7 @@
 ## Rules
 Please wait to merge branches into main until PRs are reviewed by at least one person.
 
-Mobile application to superimpose large architectural model in real world space based on anchored point. 
+Mobile application to superimpose large architectural model in real world space based on anchored point.    
 Initialized with Unity Editor Version 2021.2.12f1 Apple Silicone edition. Any version of 2021.2.12f1 should work.
 
 ## Preliminary Design Plan
